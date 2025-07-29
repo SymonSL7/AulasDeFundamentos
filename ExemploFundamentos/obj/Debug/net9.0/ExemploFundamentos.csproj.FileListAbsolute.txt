@@ -30,3 +30,4 @@ C:\_GitHub\Dio\GFT-Start7\AulasDeFundamentos\ExemploFundamentos\obj\Debug\net9.0
 C:\_GitHub\Dio\GFT-Start7\AulasDeFundamentos\ExemploFundamentos\obj\Debug\net9.0\ExemploF.DE0ABCBC.Up2Date
 C:\_GitHub\Dio\GFT-Start7\AulasDeFundamentos\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.genruntimeconfig.cache
 C:\_GitHub\Dio\GFT-Start7\AulasDeFundamentos\ExemploFundamentos\obj\Debug\net9.0\ref\ExemploFundamentos.dll
+C:\_GitHub\Dio\GFT-Start7\AulasDeFundamentos\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.sourcelink.json

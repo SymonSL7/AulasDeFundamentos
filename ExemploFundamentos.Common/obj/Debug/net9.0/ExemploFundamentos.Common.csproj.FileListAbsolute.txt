@@ -9,3 +9,4 @@ C:\_GitHub\Dio\GFT-Start7\AulasDeFundamentos\ExemploFundamentos.Common\obj\Debug
 C:\_GitHub\Dio\GFT-Start7\AulasDeFundamentos\ExemploFundamentos.Common\obj\Debug\net9.0\refint\ExemploFundamentos.Common.dll
 C:\_GitHub\Dio\GFT-Start7\AulasDeFundamentos\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.pdb
 C:\_GitHub\Dio\GFT-Start7\AulasDeFundamentos\ExemploFundamentos.Common\obj\Debug\net9.0\ref\ExemploFundamentos.Common.dll
+C:\_GitHub\Dio\GFT-Start7\AulasDeFundamentos\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.sourcelink.json
